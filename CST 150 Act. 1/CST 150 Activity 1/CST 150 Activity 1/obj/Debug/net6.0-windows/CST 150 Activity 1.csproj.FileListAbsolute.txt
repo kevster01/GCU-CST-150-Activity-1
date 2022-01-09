@@ -1,0 +1,17 @@
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\bin\Debug\net6.0-windows\CST 150 Activity 1.exe
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\bin\Debug\net6.0-windows\CST 150 Activity 1.deps.json
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\bin\Debug\net6.0-windows\CST 150 Activity 1.runtimeconfig.json
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\bin\Debug\net6.0-windows\CST 150 Activity 1.dll
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\bin\Debug\net6.0-windows\ref\CST 150 Activity 1.dll
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\bin\Debug\net6.0-windows\CST 150 Activity 1.pdb
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\obj\Debug\net6.0-windows\CST 150 Activity 1.csproj.AssemblyReference.cache
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\obj\Debug\net6.0-windows\CST_150_Activity_1.Form1.resources
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\obj\Debug\net6.0-windows\CST 150 Activity 1.csproj.GenerateResource.cache
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\obj\Debug\net6.0-windows\CST 150 Activity 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\obj\Debug\net6.0-windows\CST 150 Activity 1.AssemblyInfoInputs.cache
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\obj\Debug\net6.0-windows\CST 150 Activity 1.AssemblyInfo.cs
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\obj\Debug\net6.0-windows\CST 150 Activity 1.csproj.CoreCompileInputs.cache
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\obj\Debug\net6.0-windows\CST 150 Activity 1.dll
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\obj\Debug\net6.0-windows\ref\CST 150 Activity 1.dll
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\obj\Debug\net6.0-windows\CST 150 Activity 1.pdb
+C:\Users\kevre\OneDrive\Desktop\CST 150 Act. 1\CST 150 Activity 1\CST 150 Activity 1\obj\Debug\net6.0-windows\CST 150 Activity 1.genruntimeconfig.cache
